@@ -33,7 +33,7 @@ Check if typed messages are correctly received from subscriber. If not, there's 
  ```
  It was hard for me to install mosquitto broker in Windows.
  You may try install on this link : https://mosquitto.org/download/
- But if you have problem with the installation, you may just use the one on the mosquitto directory
+ But if you have problem with the installation, you may just use the one in the mosquitto directory
  of this project
  But remember, I'm not sure where I received this mosquitto.
  I'll remove the files if there is some problem like virus or copyright
